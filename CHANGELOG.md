@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/CoCreate-app/CoCreate-tidb/compare/v1.1.0...v1.1.1) (2026-07-19)
+
+
+### Bug Fixes
+
+* set default branch to main ([10a8fad](https://github.com/CoCreate-app/CoCreate-tidb/commit/10a8fad617474dd8cc170a8335685d6d957150e3))
+
 # [1.1.0](https://github.com/CoCreate-app/CoCreate-tidb/compare/v1.0.0...v1.1.0) (2026-07-19)
 
 
