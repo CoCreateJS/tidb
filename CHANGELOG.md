@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/CoCreateJS/tidb/compare/v2.0.0...v2.0.1) (2026-11-05)
+
+
+### Bug Fixes
+
+* upgrade CoCreate dependencies to v2 ([d4606b1](https://github.com/CoCreateJS/tidb/commit/d4606b107cc59e08bd2ba526947e2a3967a3bef7))
+
 # [2.0.0](https://github.com/CoCreateJS/tidb/compare/v1.1.1...v2.0.0) (2026-11-02)
 
 
